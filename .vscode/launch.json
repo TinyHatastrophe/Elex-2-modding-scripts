@@ -1,0 +1,18 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: elex2_pak2doc",
+            "type": "python",
+            "request": "launch",
+            "program": "elex2_pak2doc.py",
+            "console": "integratedTerminal",
+            "justMyCode": true,
+            "args": ["C:\\Program Files (x86)\\Steam\\steamapps\\common\\ELEX2",
+                     "C:\\modding\\Elex_2"]
+        }
+    ]
+}
